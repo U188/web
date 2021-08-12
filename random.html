@@ -61,14 +61,9 @@
             </div> 
         </div> 
     </body> 
-    <script type="text/javascript">var bodyBgs = [];
-bodyBgs[0] = "rz1.jpeg";
-bodyBgs[1] = "rz2.jpeg";
-bodyBgs[2] = "rz3.jpeg";
-bodyBgs[3] = "rz4.jpeg";
-bodyBgs[4] = "rz5.jpeg";
-var backbd = Math.floor(Math.random() * bodyBgs.length);
-document.getElementById("bd").style = "background-image:url('./static/" + bodyBgs[backbd] + "');"
+    <script type="text/javascript">
+var backbd = Math.floor(Math.random() * 11);
+document.getElementById("bd").style = "background-image:url('./static/" + backbd + ".jpeg');"
 var timer;
 var qrcode = document.getElementById("qrcode")
 var loginUrl = ""
