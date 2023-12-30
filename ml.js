@@ -14,5 +14,6 @@ hostname = api.mlinkapp.cc
 
 var obj = JSON.parse($response.body);
 obj.data.level = 3;
+obj.data.expireTime = 4102311455000;
 
 $done({ body: JSON.stringify(obj) });
