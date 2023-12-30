@@ -4,8 +4,7 @@ https:\/\/api.mlinkapp.cc\/v1\/user url script-response-body https://raw.githubu
 [mitm]
 hostname = api.mlinkapp.cc
 
-*/
-let obj = JSON.parse($response.body);
+var obj = JSON.parse($response.body);
 obj.level = 3; 
 
 $done({ body: JSON.stringify(obj) });
