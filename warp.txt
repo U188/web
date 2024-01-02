@@ -1,0 +1,42 @@
+shadowsocks=ahk1.fxzbjs.xyz:15013, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-香港1原生
+
+
+shadowsocks=at1.fxzbjs.xyz:15004, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr台湾1
+
+shadowsocks=at2.fxzbjs.xyz:15005, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr台湾2
+
+shadowsocks=at3.fxzbjs.xyz:15006, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr台湾3
+
+shadowsocks=at4.fxzbjs.xyz:15007, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr台湾4
+
+shadowsocks=at5.fxzbjs.xyz:15024, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr台湾5
+
+shadowsocks=ahk2.fxzbjs.xyz:15014, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-香港2
+
+shadowsocks=ahk4.fxzbjs.xyz:15016, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-香港4
+
+shadowsocks=ahk3.fxzbjs.xyz:15015, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-香港3
+
+shadowsocks=asg1.fxzbjs.xyz:15017, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr新加坡1
+
+shadowsocks=asg2.fxzbjs.xyz:15018, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr新加坡2
+
+shadowsocks=asg3.fxzbjs.xyz:15019, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr新加坡3
+
+shadowsocks=asg4.fxzbjs.xyz:15020, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr新加坡4
+
+shadowsocks=aus1.fxzbjs.xyz:15001, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-美国1
+
+shadowsocks=aus2.fxzbjs.xyz:15003, method=chacha20-ietf-poly1305, password=aes-128-gcm:5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-美国2
+
+shadowsocks=aus3.fxzbjs.xyz:15011, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-美国3
+
+shadowsocks=aus4.fxzbjs.xyz:15012, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-美国4
+
+shadowsocks=ajp1.fxzbjs.xyz:15002, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-日本1
+
+shadowsocks=ajp2.fxzbjs.xyz:15008, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-日本2
+
+shadowsocks=ajp3.fxzbjs.xyz:15009, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-日本3
+
+shadowsocks=ajp4.fxzbjs.xyz:15010, method=chacha20-ietf-poly1305, password=5bbbdcad-3183-41cb-95fe-08cde668f4e6, fast-open=false, udp-relay=false, tag=ssr-日本4
