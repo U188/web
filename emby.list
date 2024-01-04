@@ -33,12 +33,12 @@ HOST-SUFFIX,ntt1.jmsooo.com,Emby
 HOST-SUFFIX,plusmedia.site,Emby
 HOST-SUFFIX,pornemby.club,Emby
 HOST-SUFFIX,servers.xeton.dev,Emby
-HOST-KEYWORD,emby.wtf,Emby
-HOST-KEYWORD,jmsooo,Emby
-HOST-KEYWORD,odysseyplus,Emby
-HOST-KEYWORD,film.ohhhh.org,Emby
-HOST-KEYWORD,1.4545.cf,Emby
-HOST-KEYWORD,line.xmsl.org,Emby
+HOST-SUFFIX,emby.wtf,Emby
+HOST-SUFFIX,jmsooo,Emby
+HOST-SUFFIX,odysseyplus,Emby
+HOST-SUFFIX,film.ohhhh.org,Emby
+HOST-SUFFIX,1.4545.cf,Emby
+HOST-SUFFIX,line.xmsl.org,Emby
 HOST-SUFFIX,cf.gtlx.org,Emby
 HOST-SUFFIX,free.poloemby.xyz,Emby
 
