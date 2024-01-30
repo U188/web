@@ -1,9 +1,16 @@
+/*********************************
+解锁部分功能
+**************************************
+
 
 [rewrite_local]
-https:\/\/service.hhdd.com\/user\/getUserDetail.json url script-response-body https://raw.githubusercontent.com/u188/web/main/kada.js
+https:\/\/service.hhdd.com\/user\/getUserDetail.json url script-response-body https://raw.githubusercontent.com/u188/aoyou/main/kada.js
 
 [mitm]
-hostname = service.hhdd.com
+hostname = service.hhdd.com:443
+
+*************************************/
+
 
 var obj = JSON.parse($response.body);
 obj.data.gameLevel = 1;
