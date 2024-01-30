@@ -4,7 +4,7 @@
 
 
 [rewrite_local]
-https:\/\/service.hhdd.com\/user\/getUserDetail.json url script-response-body https://raw.githubusercontent.com/u188/aoyou/main/kada.js
+https:\/\/service.hhdd.com\/user\/getUserDetail.json url script-response-body https://raw.githubusercontent.com/u188/web/main/kada.js
 
 [mitm]
 hostname = service.hhdd.com:443
