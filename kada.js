@@ -20,14 +20,14 @@ obj={
       "totalCount" : 2,
       "honorNumber" : 0,
       "allRanking" : 0,
-      "readTimes" : 88,
+      "readTimes" : 8888,
       "totalWords" : 0,
       "ranking" : 0,
       "storyTime" : 0,
       "storyCount" : 0
     },
     "userInfo" : {
-      "birthday" : "2021-08-31",
+      "birthday" : "2000-08-31",
       "status" : 6,
       "schoolId" : -100,
       "appHeadVersion" : 0,
@@ -48,7 +48,7 @@ obj={
       "createDate" : 1706656529000,
       "schoolPeriod" : 0,
       "ageTypeFromBirthday" : 4,
-      "isUserSet" : 100,
+      "isUserSet" : 6,
       "userId" : 63068164
     },
     "vipInfo" : {
@@ -74,7 +74,7 @@ obj={
     "medalNum" : 3,
     "coinInfo" : {
       "consumeCoin" : 0,
-      "coin" : 100,
+      "coin" : 1,
       "voucherCoin" : 0
     },
     "createDays" : 1,
