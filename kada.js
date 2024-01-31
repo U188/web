@@ -55,8 +55,7 @@ obj={
     },
     "createDays" : 1,
     "newUserDate" : 7,
-    "vipList" : [
-
+    "vipList" : [100
     ],
     "elfInfo" : {
       "level" : 2
