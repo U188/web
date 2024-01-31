@@ -13,11 +13,11 @@ hostname = service.hhdd.com:443
 
 
 var obj = JSON.parse($response.body);
-obj.data.gameLevel = 1;
-obj.data.vipInfoV2.vipStatus=1;
-obj.data.vipInfo.vipType=1;
-obj.data.vipInfo.vipStatus= 1;
-obj.data.vipInfo.vipType= 1;
+obj.data.gameLevel = 2;
+obj.data.vipInfoV2.vipStatus=2;
+obj.data.vipInfo.vipType=2;
+obj.data.vipInfo.vipStatus= 2;
+obj.data.vipInfo.vipType= 2;
 
 
 $done({ body: JSON.stringify(obj) });
