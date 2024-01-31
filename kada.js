@@ -7,8 +7,7 @@
 https:\/\/service.hhdd.com\/user\/getUserDetail.json url script-response-body https://raw.githubusercontent.com/u188/web/main/kada.js
 
 [mitm]
-hostname = service.hhdd.com:443
-
+hostname = service.hhdd.com,service.hhdd.com:443
 *************************************/
 
 
@@ -44,19 +43,19 @@ obj={
       "withholdingPayPrice" : 0,
       "beginTime" : 0,
       "remindRenewal" : 0,
-      "status" : 0,
+      "status" : 2,
       "vipType" : 2
     },
     "medalList" : null,
     "medalNum" : 3,
     "coinInfo" : {
       "consumeCoin" : 0,
-      "coin" : 0,
+      "coin" : 100,
       "voucherCoin" : 0
     },
     "createDays" : 1,
     "newUserDate" : 7,
-    "vipList" : ["svip"
+    "vipList" : [
 
     ],
     "elfInfo" : {
@@ -84,7 +83,7 @@ obj={
       "createDate" : 1706656529000,
       "schoolPeriod" : 0,
       "ageTypeFromBirthday" : 4,
-      "isUserSet" : 1,
+      "isUserSet" : 100,
       "userId" : 63068164
     },
     "vipInfo" : {
