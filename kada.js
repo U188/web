@@ -48,7 +48,7 @@ obj={
       "createDate" : 1706656529000,
       "schoolPeriod" : 0,
       "ageTypeFromBirthday" : 4,
-      "isUserSet" : 6,
+      "isUserSet" : 1,
       "userId" : 63068164
     },
     "vipInfo" : {
@@ -62,7 +62,7 @@ obj={
       "remindExpire" : 100,
       "level" : 4,
       "remindExpireDays" : 100,
-      "endTime" : 0,
+      "endTime" : 100,
       "withholdingOrderPrice" : 0,
       "withholdingPayPrice" : 0,
       "beginTime" : 0,
@@ -97,7 +97,7 @@ obj={
       "remindExpire" : 0,
       "level" : 6,
       "remindExpireDays" : 0,
-      "endTime" : 0,
+      "endTime" : 100,
       "withholdingOrderPrice" : 0,
       "withholdingPayPrice" : 0,
       "beginTime" : 0,
