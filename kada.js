@@ -27,17 +27,17 @@ obj={
       "storyTime" : 0,
       "storyCount" : 0
     },
-    "gameLevel" : 1,
+    "gameLevel" : 2,
     "vipInfoV2" : {
       "withholdingTime" : 0,
       "remainingDays" : 0,
       "payFlag" : 0,
       "channel" : 0,
-      "vipStatus" : 1,
+      "vipStatus" : 2,
       "signStatus" : 0,
       "priority" : 0,
       "remindExpire" : 0,
-      "level" : 1,
+      "level" : 2,
       "remindExpireDays" : 0,
       "endTime" : 0,
       "withholdingOrderPrice" : 0,
@@ -45,7 +45,7 @@ obj={
       "beginTime" : 0,
       "remindRenewal" : 0,
       "status" : 0,
-      "vipType" : 1
+      "vipType" : 2
     },
     "medalList" : null,
     "medalNum" : 3,
@@ -55,7 +55,6 @@ obj={
       "voucherCoin" : 0
     },
     "createDays" : 1,
-    "currentTime" : 1706671257842,
     "newUserDate" : 7,
     "vipList" : ["svip"
 
@@ -90,22 +89,22 @@ obj={
     },
     "vipInfo" : {
       "withholdingTime" : 0,
-      "remainingDays" : 0,
+      "remainingDays" : 2,
       "payFlag" : 0,
       "channel" : 0,
-      "vipStatus" : 1,
-      "signStatus" : 1,
+      "vipStatus" : 2,
+      "signStatus" : 2,
       "priority" : 0,
-      "remindExpire" : 0,
+      "remindExpire" : 100,
       "level" : 4,
-      "remindExpireDays" : 0,
+      "remindExpireDays" : 100,
       "endTime" : 0,
       "withholdingOrderPrice" : 0,
       "withholdingPayPrice" : 0,
       "beginTime" : 0,
       "remindRenewal" : 0,
-      "status" : 1,
-      "vipType" : 1
+      "status" : 2,
+      "vipType" : 2
     }
   },
   "code" : 200
