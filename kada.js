@@ -54,8 +54,7 @@ obj={
       "voucherCoin" : 0
     },
     "createDays" : 1,
-    "newUserDate" : 7,
-    "vipList" : [100
+    "vipList" : ["svip","svip"
     ],
     "elfInfo" : {
       "level" : 2
