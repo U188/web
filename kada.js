@@ -7,7 +7,7 @@
 https:\/\/service.hhdd.com\/user\/getUserDetail.json url script-response-body https://raw.githubusercontent.com/u188/web/main/kada.js
 
 [mitm]
-hostname = service.hhdd.com,service.hhdd.com:443
+hostname = service.hhdd.com:443
 *************************************/
 
 
