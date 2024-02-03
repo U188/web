@@ -13,6 +13,6 @@ hostname = api-jiaoyu-brain.vas.lutongnet.com
 
 
 var obj = JSON.parse($response.body);
-obj.userInfo.product = "nldmx_iOS_VIP";
+obj.userInfo.product = "VIP0008";
 
 $done({ body: JSON.stringify(obj) });
