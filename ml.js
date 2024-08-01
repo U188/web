@@ -14,6 +14,6 @@ hostname = api-jiaoyu-brain.vas.lutongnet.com
 
 
 var obj = JSON.parse($response.body);
-obj.data.orderStatus = "VIP";
+obj.data.orderStatus = "Pro会员";
 obj.data.coinsNum = "10000";
 $done({ body: JSON.stringify(obj) });
