@@ -4,15 +4,19 @@
 
 
 [rewrite_local]
-https:\/\/service.hhdd.com\/user\/getUserDetail.json url script-response-body https://raw.githubusercontent.com/u188/web/main/kada.js
+https:\/\/api.xiaokoudai.cn\/api\/xdjz\/client\/login url script-response-body https://raw.githubusercontent.com/u188/web/main/kada.js
 
 [mitm]
-hostname = service.hhdd.com:443
+hostname = api.xiaokoudai.cn
 *************************************/
 
 
 var obj = JSON.parse($response.body);
 obj.data={
+    
+    data.user.freeAiBookingLimit=20;
+    data.user.__v=1;
+    data.user.freeAiBookingNum=0;
 }
 
 
