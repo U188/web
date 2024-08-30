@@ -14,9 +14,9 @@ hostname = api.xiaokoudai.cn
 var obj = JSON.parse($response.body);
 obj.data={
     
-    data.user.freeAiBookingLimit=20;
+    data.user.freeAiBookingLimit=0;
     data.user.__v=1;
-    data.user.freeAiBookingNum=0;
+    data.user.freeAiBookingNum=20;
 }
 
 
