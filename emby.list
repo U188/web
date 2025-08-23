@@ -1,4 +1,4 @@
-7DOMAIN,emby.enjoyit.eu.org
+DOMAIN,emby.enjoyit.eu.org
 DOMAIN-SUFFIX,agahk1.jmsooo.com
 DOMAIN-SUFFIX,agajp1.jmsooo.com
 DOMAIN-SUFFIX,agasg1.jmsooo.com
@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
-PROCESS-NAME,com.mb.android
 DOMAIN-SUFFIX,film.ohhhh.org
 DOMAIN-SUFFIX,1.4545.cf
 DOMAIN-SUFFIX,line.xmsl.org
