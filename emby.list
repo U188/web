@@ -48,9 +48,7 @@ payload:
   - DOMAIN-SUFFIX,114514.quest
   - DOMAIN-SUFFIX,kongcheng666.dpdns.org
   - DOMAIN-SUFFIX,mebimmer.de
-  - IP-CIDR,158.101.205.252
-  - IP-CIDR,141.144.194.23
-
+  
 
 
 
